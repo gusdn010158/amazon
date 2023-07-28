@@ -1,0 +1,17 @@
+.checkout{
+    display: flex;
+    flex-direction: row;
+    padding:20px;
+    background-color: white;
+    height:max-content;/*안에 컨텐츠 만큼 커짐*/
+}
+.checkout_title{
+    margin-right:10px;
+    padding:10px;
+    border-bottom:1px soild lightskyblue;
+}
+
+.checkout_ad{
+    width:100%;
+    margin-bottom:10px;
+}
